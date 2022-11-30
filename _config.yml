@@ -13,20 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Hi, I'm Anastasiia"
+email: 'anastasiia.d.kulakova@gmail.com'
+description: "I'm a full-stack data scientist and Scrum Master eager to dive into the data and the processes it originates from. I take inspiration from doughnut economy concept and strive to contribute to a more sustainable world. Currently, by operationalising machine learning in energy domain"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://anastasiiakulakova.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: ''
+linkedin_username: 'linkedin.com/in/nastyakul/'
+github_username: 'nastyakul'
+medium_username: 'medium.com/@anastasiya.kulakova'
+section_title: "Current work"
+section_subtitle: "Here's what keeps me busy these days"
 
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
+  - jekyll-openmoji
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -89,8 +93,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2022 Anastasiia Kulakova'
+admin_name: 'Anastasiia Kulakova'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -99,3 +103,13 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+
+# Where things are
+emoji:
+  src: "https://gcdn.honglin.eu.org"
+  asset: "/emojis/joypixels"
+  extension: "png"
+  img_attrs:
+    class: "emoji"
+    height: "25"
+    width: "25"
