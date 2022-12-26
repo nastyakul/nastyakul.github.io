@@ -29,9 +29,11 @@ section_subtitle: "Here's what keeps me busy these days:"
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-openmoji
 
+paginate: 10
+paginate_path: "/page:num/"
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
