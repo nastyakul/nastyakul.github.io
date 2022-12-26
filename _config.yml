@@ -15,15 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hi, I'm Anastasiia"
 email: 'anastasiia.d.kulakova@gmail.com'
-description: "I'm a full-stack data scientist and Scrum Master eager to dive into the data and the processes it originates from. I take inspiration from doughnut economy concept and strive to contribute to a more sustainable world. Currently, by operationalising machine learning in energy domain"
+description: "I'm a full-stack Data Scientist and Scrum Master eager to dive into the data and the processes it originates from. I take inspiration from doughnut economy concept and strive to contribute to a more sustainable world. Currently, by operationalizing machine learning in energy domain @Jedlix."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anastasiiakulakova.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://nastyakul.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 linkedin_username: 'linkedin.com/in/nastyakul/'
 github_username: 'nastyakul'
 medium_username: 'medium.com/@anastasiya.kulakova'
 section_title: "Current work"
-section_subtitle: "Here's what keeps me busy these days"
+section_subtitle: "Here's what keeps me busy these days:"
 
 # Build settings
 markdown: kramdown
