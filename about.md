@@ -7,7 +7,7 @@ permalink: /about/
 # 👩🏼‍💻 About me
 ------
 
-I'm an Amsterdam-based Data Science generalist with 3+ years of experience, most of them -- with energy data. I can build (mostly) regression models, wrap them in APIs and keep an eye on them with dashboards and alerting systems in production. Oh, and people say they like how I host Agile retrospectives! More on that in [my CV](https://drive.google.com/file/d/1T88RRdcNETQaabx0acSyTFKOb7vpOsYi/view?usp=sharing).
+I'm an Amsterdam-based Data Science generalist with 3+ years of experience, most of them -- with energy data. I can build (mostly) regression models, wrap them in APIs and keep an eye on them with dashboards and alerting systems in production. Oh, and people say they like how I host Agile retrospectives! More on that in [my CV](https://drive.google.com/file/d/1ikRDi0SwewG97Hq0Fg44c2Ve5qkmp4vU/view?usp=sharing).
 
 I'm also an expat and always on the look-out for like-minded people. That's actually one of the reasons for creating the website!
 <br/><br/>
