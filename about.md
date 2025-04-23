@@ -17,7 +17,7 @@ I'm also an expat and always on the look-out for like-minded people. That's actu
 
 ### 📍 curious about DS applications in sustainability
 
-I gave a couple of talks on data science in energy (see slides in RU [here](https://docs.google.com/presentation/d/1jlVBsspsxgcqi3wwRTbtgHURBg7FLHuXOfv5dxxZnDE/edit?usp=sharing)) and always up for telling and learning more.
+I recently gave a talk on [data science for social good](https://youtu.be/mD5j6Jxc8m8?si=2VuJ7Bf-ltZ6hh--) for CorrelAid and always up for telling and learning more. 
 
 
 
